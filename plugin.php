@@ -1,10 +1,9 @@
 <?php
 /**
- * Plugin Name: guten-post-list — CGB Gutenberg Block Plugin
- * Plugin URI: https://github.com/ahmadawais/create-guten-block/
- * Description: guten-post-list — is a Gutenberg plugin created via create-guten-block.
- * Author: mrahmadawais, maedahbatool
- * Author URI: https://AhmadAwais.com/
+ * Plugin Name: OchiGallery - Gutenberg Custom Post Type Post Feed
+ * Description: Creates new block to select post type and category to show posts feed.
+ * Author: Dave Mozdzanowski
+ * Author URI: https://davejmoz.com/
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
